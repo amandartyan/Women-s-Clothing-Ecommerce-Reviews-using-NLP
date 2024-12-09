@@ -1,5 +1,6 @@
 # Women's Clothing E-commerce Reviews using NLP (Natural Language Processing)
-Source : https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews/data 
+Source : https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews/data
+
 Steps :
 - Data Preprocessing
 - Tokenization, Lemmatization
